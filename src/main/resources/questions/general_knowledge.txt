@@ -1,0 +1,27 @@
+The earth is flat.
+TRUE_FALSE
+2
+Scientific consensus confirms the earth is spherical.
+
+The capital of France is Paris.
+MCQ
+London
+Berlin
+Paris
+Madrid
+3
+Paris is the capital city of France.
+
+Water boils at 100 degrees Celsius.
+TRUE_FALSE
+1
+At standard atmospheric pressure, water boils at 100°C.
+
+Which language is primarily spoken in Brazil?
+MCQ
+Spanish
+Portuguese
+French
+English
+2
+Portuguese is the official language of Brazil.
